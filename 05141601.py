@@ -1,0 +1,6 @@
+print('23456789ertyui454dfghj')
+print('23456756589ertyuidfghj')
+print('23456789ertyuid45fghj')
+print('234567dgdf89ertyuidfghj')
+print('2345678fdgdf9ertyuidfghj')
+print('23456789ertyuidfghj')
